@@ -1,0 +1,28 @@
+h1{
+    background-color: black;
+    color: white;
+
+}
+h1 span{
+    color: cyan;
+}
+
+
+
+
+
+
+
+h2{
+
+text-align: center;
+    color: white;
+    background-color: rgb(175, 110, 236);
+    font-style: italic;
+} 
+h3{
+text-align: right;
+    color: black;
+    background-color:rgb(26, 26, 235) ;
+    text-decoration: underline;
+}
