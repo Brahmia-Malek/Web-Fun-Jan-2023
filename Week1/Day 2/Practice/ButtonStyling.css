@@ -1,0 +1,24 @@
+#BS{
+
+    font-weight: 800;
+    width: 90px;
+    border-radius: 30px;
+    color: #7dc8c8;
+    border: 3px solid #7dc8c8;
+    background-color: #fff;
+}
+#BA{
+    width: 50px;
+    background-color: #00d1b2;
+    color: white;
+    border-radius: 50%;
+    border: none;
+
+}
+#BC{
+    width: 200px;
+    background-color: #2b78e4;
+    color:white;
+    border: black;
+    box-shadow: 3px 3px black;
+}
