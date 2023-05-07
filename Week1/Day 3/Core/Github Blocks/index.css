@@ -1,0 +1,33 @@
+.block1{
+    background-color: #a6b0a1;
+    margin: 0px auto;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.block2{
+background-color:blue;
+display: flex;
+align-items: center;
+justify-content: center;
+justify-content: space-around;
+
+
+}
+.block3
+{
+    background-color: rgb(190, 155, 222);
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+.block4
+{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
