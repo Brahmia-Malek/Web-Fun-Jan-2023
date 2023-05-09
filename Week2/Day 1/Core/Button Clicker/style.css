@@ -1,0 +1,137 @@
+.container{
+    background-color: white;
+    
+
+  
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  width: 80%;
+
+  height: 200px;
+  justify-content: center;
+  
+  
+
+
+  
+   
+    
+
+    
+    
+    
+}
+
+.box1{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 15px;
+
+    
+}
+
+
+    
+.box{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 300px;
+    
+    
+    
+    
+}
+.box2{
+    border: solid;
+    padding-left: 20px;
+    padding: 20px;
+    margin-top: 40px;
+    width: 600px;
+    gap: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    
+    
+}
+
+.box3{
+    border: solid;
+    margin-top: 40px;
+    width: 280px;
+    height:200px ;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    
+
+}
+.box4{
+    border: solid;
+    width: 600px;
+    padding: 20px;
+    margin-left: 100px;
+    margin-top: 40px;
+    gap: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    
+    
+    
+
+    
+
+}
+.button4{
+    background-color: green;
+    box-shadow: 3px 3px black;
+    width: 200px;
+    height: 35px;
+}
+.button2{
+    background-color: yellow;
+    box-shadow: 3px 3px black;
+    border: 4px black solid;
+}
+.button3{
+    background-color: yellow;
+    box-shadow: 3px 3px black;
+    border: 4px black solid;
+}
+#search{
+height: 30px;
+margin-top: 30px;
+padding-right: 60px;
+border: solid black;
+width: 500px;
+
+}
+.buttonl{
+    background-color: rgba(0, 0, 255, 0.736);
+    color: white;
+    width:100px;
+    height: 30px;
+    margin-top: 30px;
+    margin-right: 20px;
+    box-shadow: 2px 2px black;
+    border: 3px black solid;
+    
+}
+
+
+
+
+    
+    
+     
+
+}
